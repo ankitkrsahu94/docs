@@ -20,7 +20,7 @@
       "id": "games",
       "title": "Games",
       "type": "game",
-      "enabled": false,
+      "enabled": true,
       "order": 3
     }
   ]
