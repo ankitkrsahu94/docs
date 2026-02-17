@@ -1,0 +1,16 @@
+{
+  "categoryId": "stories",
+  "version": 1,
+  "items": [
+    {
+      "id": "first_story",
+      "title": "A Quiet Evening",
+      "summary": "A calm, intimate moment between two people as the city sleeps.",
+      "contentType": "json",
+      "contentPath": "stories/sample_story.json",
+      "isPremium": false,
+      "order": 1
+    }
+  ]
+}
+

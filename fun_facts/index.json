@@ -1,0 +1,16 @@
+{
+  "categoryId": "fun_facts",
+  "version": 1,
+  "items": [
+    {
+      "id": "connection_fact",
+      "title": "Why Emotional Connection Matters",
+      "summary": "A short fact about emotional bonding.",
+      "contentType": "json",
+      "contentPath": "fun_facts/sample_fact.json",
+      "isPremium": false,
+      "order": 1
+    }
+  ]
+}
+
