@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "contentEnabled": true,
+  "categories": [
+    {
+      "id": "stories",
+      "title": "Stories",
+      "type": "story",
+      "enabled": true,
+      "order": 1
+    },
+    {
+      "id": "fun_facts",
+      "title": "Fun Facts",
+      "type": "fact",
+      "enabled": true,
+      "order": 2
+    },
+    {
+      "id": "games",
+      "title": "Games",
+      "type": "game",
+      "enabled": false,
+      "order": 3
+    }
+  ]
+}
