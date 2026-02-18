@@ -3,7 +3,7 @@
   "version": 1,
   "items": [
     {
-      "id": "first_story",
+      "id": "sample_story",
       "title": "A Quiet Evening",
       "summary": "A calm, intimate moment between two people as the city sleeps.",
       "contentType": "json",
